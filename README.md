@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 - 🔭 I’m a student graduating in 2022 and I’m looking for a job.
-- 🌱 I’m currently learning "[alibaba/ice](https://github.com/alibaba/ice)", I created a project called "[100 Days Of ICE](https://github.com/zh-D/100 Days Of ICE)" to record my learning journey. In this project, I will read npm packages in ICE everyday and I hope I could know how it works after 100 days.
+- 🌱 I’m currently learning "[alibaba/ice](https://github.com/alibaba/ice)", I created a project called "[100 Days Of ICE](https://github.com/zh-D/100-Days-Of-ICE)" to record my learning journey. In this project, I will read npm packages in ICE everyday and I hope I could know how it works after 100 days.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zh-D)](https://github.com/anuraghazra/github-readme-stats)
