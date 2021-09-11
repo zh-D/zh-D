@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 - 🔭 I’m a student graduating in 2022 and I’m looking for a job.
-- 🌱 I’m currently learning Front-end engineering, I created a project called "[labs](https://github.com/zh-D/labs)" to record my learning journey. 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zh-D)](https://github.com/anuraghazra/github-readme-stats)
