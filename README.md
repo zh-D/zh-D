@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-- 🔭 I’m a student graduating in 2022 and I’m looking for a job.
+- 🔭 A front-end engineer who has been working for a while, your advice are most welcome。
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zh-D)](https://github.com/anuraghazra/github-readme-stats)
